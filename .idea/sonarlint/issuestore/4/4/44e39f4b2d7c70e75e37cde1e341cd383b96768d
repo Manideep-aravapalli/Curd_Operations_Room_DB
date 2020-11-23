@@ -1,0 +1,33 @@
+
+G
+java:S1659<"%Declare "u_state" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+r	java:S116<"QRename this field "u_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+M
+java:S1481S"+Remove this unused "update" local variable.(ÖÚëªûÿÿÿÿ8‰ÜÒ¢ß.
+s	java:S116<"RRename this field "u_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+r	java:S116<"QRename this field "u_city" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+M
+java:S1481S"+Remove this unused "delete" local variable.(ÖÚëªûÿÿÿÿ8‰ÜÒ¢ß.
+G
+java:S1659<"%Declare "u_email" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+I
+java:S1659<"'Declare "u_zipCode" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+I
+java:S1659<"'Declare "u_phoneNo" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+F
+java:S1659S"$Declare "delete" on a separate line.(ÖÚëªûÿÿÿÿ8‰ÜÒ¢ß.
+u	java:S116<"TRename this field "u_phoneNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+F
+java:S1659<"$Declare "u_city" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+I
+java:S1659<"'Declare "u_address" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+u	java:S116<"TRename this field "u_country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+u	java:S116<"TRename this field "u_zipCode" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+I
+java:S1659<"'Declare "u_country" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+s	java:S116<"RRename this field "u_email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+u	java:S116<"TRename this field "u_address" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+v	java:S116<"URename this field "u_MobileNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¥Ğúš
+J
+java:S1659<"(Declare "u_MobileNo" on a separate line.(ÿ¨Öçúÿÿÿÿ8‰ÜÒ¢ß.

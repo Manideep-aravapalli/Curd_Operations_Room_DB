@@ -1,0 +1,16 @@
+
+e
+java:S1874<"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û¶…óøÿÿÿÿ
+?
+java:S1659"$Declare "delete" on a separate line.(ÖÚëªûÿÿÿÿ
+=
+java:S1604"(Make this anonymous inner class a lambda(ÒØÿu
+>
+java:S1604&"(Make this anonymous inner class a lambda(ÉË¢
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(Ÿåë‘üÿÿÿÿ
+L
+java:S18740"1Remove this use of "AsyncTask"; it is deprecated.(¡ Õôûÿÿÿÿ
+J
+java:S1874E"/Remove this use of "execute"; it is deprecated.(¬èöÿÿÿÿÿ
+K
+java:S1874="5Remove this use of "onPostExecute"; it is deprecated.(¹ï•é

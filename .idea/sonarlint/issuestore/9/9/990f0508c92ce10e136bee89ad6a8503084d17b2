@@ -1,0 +1,54 @@
+
+O
+java:S1874§"1Remove this use of "AsyncTask"; it is deprecated.(Ñ—ô8€ä¢ß.
+{
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ï®–îøÿÿÿÿ8€ä¢ß.
+m	java:S117w"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´½×8€ä¢ß.
+B
+java:S1659"%Declare "zipCode" on a separate line.(‹àÄ8€ä¢ß.
+B
+java:S1659"%Declare "phoneNo" on a separate line.(‹àÄ8€ä¢ß.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(–‡óÏıÿÿÿÿ8ğ÷ ¤ß.
+{
+java:S2293G"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÍèŠøÿÿÿÿ8€ä¢ß.
+j	java:S101§"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñ—ô8€ä¢ß.
+r	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í¥ğışÿÿÿÿ8€ä¢ß.
+m	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£º™Ã8€ä¢ß.
+C
+java:S1659"&Declare "mobileNo" on a separate line.(‹àÄ8€ä¢ß.
+p	java:S116"TRename this field "u_country" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŠÇæ8€ä¢ß.
+{
+java:S2293:"YReplace the type specification in this constructor call with the diamond operator ("<>").(–‡óÏıÿÿÿÿ8ÂÂ§¤ß.
+`
+java:S1117:">Rename "categories" which hides the field declared at line 28.(–‡óÏıÿÿÿÿ8ÂÂ§¤ß.
+S
+java:S1874¿"5Remove this use of "onPostExecute"; it is deprecated.(¹ï•é8€ä¢ß.
+R
+java:S1874Æ"/Remove this use of "execute"; it is deprecated.(–’Õœüÿÿÿÿ8€ä¢ß.
+r	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡øØ”ÿÿÿÿÿ8€ä¢ß.
+H
+java:S1172r"+Remove this unused method parameter "task".(¬Ş‚8€ä¢ß.
+r	java:S117v"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©Ê´±úÿÿÿÿ8€ä¢ß.
+m
+java:S1874¾"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û¶…óøÿÿÿÿ8€ä¢ß.
+J
+java:S16043"(Make this anonymous inner class a lambda(«¹Õºøÿÿÿÿ8€ä¢ß.
+V	java:S110"<This class has 9 parents which is greater than 5 authorized.(ü¨Ó‚ûÿÿÿÿ
+@
+java:S1659"#Declare "email" on a separate line.(‹àÄ8€ä¢ß.
+?
+java:S1659""Declare "city" on a separate line.(‹àÄ8€ä¢ß.
+n	java:S116"RRename this field "u_state" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞŠÇæ8€ä¢ß.
+m	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(„ç¤‹8€ä¢ß.
+u
+java:S2293a"YReplace the type specification in this constructor call with the diamond operator ("<>").(ù‹ê88€ä¢ß.
+A
+java:S1659"%Declare "country" on a separate line.(ù•©:8€ä¢ß.
+r	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×Î«ıÿÿÿÿÿ8€ä¢ß.
+X	java:S125Ó"<This block of commented-out lines of code should be removed.(‹¼8¾Üí¤ß.
+D
+java:S1659"'Declare "u_country" on a separate line.(ĞŠÇæ8€ä¢ß.
+B
+java:S1659"%Declare "address" on a separate line.(‹àÄ8€ä¢ß.
+p	java:S100É"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÓüşÿÿÿÿ8€ä¢ß.
